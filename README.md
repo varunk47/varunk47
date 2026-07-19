@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&center=true&vCenter=true&width=560&color=2F81F7&lines=AI+Engineer+%C2%B7+MS+CS+%40+Illinois+Tech+'26;I+build+AI+agents+that+actually+ship;LangGraph+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+full-stack" alt="Varun Kadam — AI Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&center=true&vCenter=true&width=560&color=2F81F7&lines=AI+Engineer+%C2%B7+MS+CS+%40+Illinois+Tech+'26;I+build+AI+agents+that+actually+ship;LangGraph+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+full-stack" alt="Varun Kadam - AI Engineer" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ### Hi, I'm Varun 👋
 
-- 🔭 **Building** [Jobreach](https://github.com/varunk47/Jobreach) — an open-source Claude Code plugin that runs the entire job hunt (tailored documents, verified recruiter emails, Gmail drafts, tracking) — and [Applyocalypse](https://github.com/varunk47/Applyocalypse), an autonomous agent that applies to jobs for me
+- 🔭 **Building** [Jobreach](https://github.com/varunk47/Jobreach) - an open-source Claude Code plugin that runs the entire job hunt (tailored documents, verified recruiter emails, Gmail drafts, tracking) — and [Applyocalypse](https://github.com/varunk47/Applyocalypse), an autonomous agent that applies to jobs for me
 - 🌱 **Going deeper on** LLM evaluation and multi-agent reliability — the gap between an agent that demos well and one that survives production
 - 💬 **Ask me about** LangGraph orchestration, RAG that stays grounded, MCP tooling, or getting an agent past the demo stage
 - 📫 **Reach me:** varunjkadam@gmail.com
@@ -118,7 +118,7 @@ Multi-agent **LangGraph** pipeline auditing YouTube ads end to end: video ingest
 <summary>📜 <b>Certifications</b></summary>
 <br/>
 
-- **Microsoft Certified: Azure AI Apps & Agents Developer Associate** (2026) — [credential](https://learn.microsoft.com/api/credentials/share/en-in/Vk47-3926/E43B47E479C14742?sharingId=13256DFFABCF4865)
+- **Microsoft Certified: Azure AI Apps & Agents Developer Associate** (2026) - [credential](https://learn.microsoft.com/api/credentials/share/en-in/Vk47-3926/E43B47E479C14742?sharingId=13256DFFABCF4865)
 - **IBM AI Engineering Specialization** (2025)
 - **Google Data Analytics** (Coursera)
 
