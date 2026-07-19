@@ -30,7 +30,7 @@ Recently completed my MS in CS at Illinois Tech. Most of my time goes into build
 </td>
 <td width="45%" valign="top">
 
-<img src="assets/stats.svg" alt="GitHub stats" width="420"/>
+<img src="assets/stats.svg?v=2" alt="GitHub stats" width="420"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=varunk47&hide_border=true&short_numbers=false&theme=github-dark-blue&background=0d1117">
