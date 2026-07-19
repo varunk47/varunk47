@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&center=true&vCenter=true&width=560&color=2F81F7&lines=AI+Engineer+%C2%B7+MS+CS+%40+Illinois+Tech+'26;I+build+AI+agents+that+actually+ship;LangGraph+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+full-stack" alt="Varun Kadam - AI Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&center=true&vCenter=true&width=560&color=2F81F7&lines=AI+Engineer+%C2%B7+MS+CS+%40+Illinois+Tech+'26;I+build+agents+that+do+real+work;LangGraph+%C2%B7+RAG+%C2%B7+MCP" alt="Varun Kadam" />
 
 <br/>
 
@@ -18,12 +18,14 @@
 <tr>
 <td width="55%" valign="top">
 
-### Hi, I'm Varun 👋
+### Hey, I'm Varun
 
-- 🔭 **Building** [Jobreach](https://github.com/varunk47/Jobreach) - an open-source Claude Code plugin that runs the entire job hunt (tailored documents, verified recruiter emails, Gmail drafts, tracking) — and [Applyocalypse](https://github.com/varunk47/Applyocalypse), an autonomous agent that applies to jobs for me
-- 🌱 **Going deeper on** LLM evaluation and multi-agent reliability — the gap between an agent that demos well and one that survives production
-- 💬 **Ask me about** LangGraph orchestration, RAG that stays grounded, MCP tooling, or getting an agent past the demo stage
-- 📫 **Reach me:** varunjkadam@gmail.com
+Finishing my MS in CS at Illinois Tech. Most of my time goes into building agents and the plumbing that keeps them honest.
+
+- Right now, building [Jobreach](https://github.com/varunk47/Jobreach), a Claude Code plugin that runs my whole job hunt, and [Applyocalypse](https://github.com/varunk47/Applyocalypse), the agent that applies to jobs so I don't have to
+- Currently obsessed with one problem, agents that stay reliable when nobody is watching
+- Ask me about LangGraph, RAG, MCP, or why my job applications send themselves
+- 📫 varunjkadam@gmail.com
 
 </td>
 <td width="45%" valign="top">
@@ -42,7 +44,7 @@
 </tr>
 </table>
 
-## 🛠 Tech I ship with
+## What I work with
 
 **AI / ML**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -54,7 +56,7 @@
 **Languages**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat" alt="SQL"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
 
 **Backend / Frontend**&nbsp;&nbsp;
@@ -64,52 +66,53 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron"/>
 
-**Cloud / Data**&nbsp;&nbsp;
+**Cloud**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat" alt="Azure"/>
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
-## 🚀 Featured builds
+**Databases**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Pinecone-1C1C4A?style=flat" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/ChromaDB-FC5C05?style=flat" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+
+**Daily drivers**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white" alt="Codex"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+
+## Things I've built
 
 <table border="0">
 <tr>
 <td width="50%" valign="top">
 
-### [Jobreach](https://github.com/varunk47/Jobreach)
-Claude Code plugin for the **entire job hunt**: JD screening, format-preserving resume + cover tailoring, recruiter/hiring-manager discovery, a 20-provider free-tier **email verification cascade**, Gmail draft outreach, and an Excel tracker.
-`Python` `Claude Code` `Gmail API`
-
-</td>
-<td width="50%" valign="top">
-
 ### [Applyocalypse](https://github.com/varunk47/Applyocalypse)
-Autonomous application agent: scrapes the JD, tailors documents with the original fonts and layout intact, **drives the browser through 5+ ATS portals**, and stops at a human approval gate before anything submits. Apply time: 45 min → under 4.
-`TypeScript` `Electron` `LiteLLM (9 providers)`
+A desktop agent that applies to jobs for me. It scrapes the posting, rewrites my resume and cover letter while keeping my fonts and layout exactly as they were, fills out Workday and the other portals, and then waits for me to hit approve. Nothing submits on its own. Took my time per application from about 45 minutes down to 4.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Brand Guardian AI <sub>(source private — happy to walk through it)</sub>
-Multi-agent **LangGraph** pipeline auditing YouTube ads end to end: video ingestion → OCR → LLM reasoning, grounded by **RAG on Azure AI Search** so findings cite real regulatory text. A manual review becomes a strict-JSON report in ~90 seconds.
-`Python` `FastAPI` `LangSmith`
+`TypeScript` `Electron` `LiteLLM`
 
 </td>
 <td width="50%" valign="top">
 
-### [Job-Title Embedding Fine-Tune](https://github.com/varunk47/Fine-Tune-a-Job-Title-Embedding-Model-using-Synthetic-Training-Data)
-29k **GPT-4.5-generated synthetic triplets** → fine-tuned `all-mpnet-base-v2` with TripletLoss, validated against the base model with **t-SNE** on held-out embeddings, served in a real-time Streamlit matcher over 5,000+ O*NET roles.
-`Python` `sentence-transformers` `Streamlit`
+### [Jobreach](https://github.com/varunk47/Jobreach)
+I was doing the same tedious loop for every application, so I turned the whole thing into a Claude Code plugin. Paste a job description and it screens it, tailors my documents, digs up the recruiter and the hiring manager, verifies their emails across ~20 free APIs, and leaves ready-to-send drafts in my Gmail. Built it for myself first, then open-sourced it.
+
+`Python` `Claude Code` `Gmail API`
 
 </td>
 </tr>
 </table>
 
-## ⚡ Recent activity
+## Recent activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -118,9 +121,11 @@ Multi-agent **LangGraph** pipeline auditing YouTube ads end to end: video ingest
 <summary>📜 <b>Certifications</b></summary>
 <br/>
 
-- **Microsoft Certified: Azure AI Apps & Agents Developer Associate** (2026) - [credential](https://learn.microsoft.com/api/credentials/share/en-in/Vk47-3926/E43B47E479C14742?sharingId=13256DFFABCF4865)
-- **IBM AI Engineering Specialization** (2025)
-- **Google Data Analytics** (Coursera)
+- [Microsoft Certified: Azure AI Apps & Agents Developer Associate](https://learn.microsoft.com/api/credentials/share/en-in/Vk47-3926/E43B47E479C14742?sharingId=13256DFFABCF4865) (2026)
+- [IBM AI Engineering Specialization](https://www.coursera.org/account/accomplishments/professional-cert/certificate/RVTFKDB8NR9K) (2025)
+- [OCI 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=994E64AC194B64D8F00D0006EA68B7CC1D555DD68E8C4DCD854C774C844D1F77) (2025)
+- [OCI 2025 Certified Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E6203EFEA21993F0B8E6A64DF40D3F723BF1015DA188E3AC8DD0D077CF31119) (2025)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/37UIHXW2PQUW) (2025)
 
 </details>
 
