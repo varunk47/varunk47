@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/varunkadam47/"><img src="https://img.shields.io/badge/LinkedIn-varunkadam47-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:varunkadam7777@gmail.com"><img src="https://img.shields.io/badge/Email-varunkadam7777-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:varunjkadam@gmail.com"><img src="https://img.shields.io/badge/Email-varunjkadam-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN_TO_WORK-AI%2FML_Engineer-2EA44F?style=for-the-badge" alt="Open to work"/>
 
