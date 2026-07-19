@@ -22,6 +22,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  stats-card:
+    runs-on: ubuntu-latest
+    needs: recent-activity   # sequential so the two bots never race on push
+    steps:
+      - uses: actions/checkout@v4
+      - name: Regenerate assets/stats.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/gen_stats.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          git add assets/stats.svg
+          git diff --cached --quiet || git commit -m "chore: refresh stats card"
+          git push origin main
+
   # ---------------------------------------------------------------------
   # Blog / content feed - uncomment when there is an RSS feed to pull from
   # (dev.to, Medium, Hashnode, or a YouTube channel all work).

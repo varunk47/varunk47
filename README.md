@@ -30,10 +30,7 @@ Finishing my MS in CS at Illinois Tech. Most of my time goes into building agent
 </td>
 <td width="45%" valign="top">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=varunk47&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunk47&show_icons=true&hide_border=true" alt="GitHub stats"/>
-</picture>
+<img src="assets/stats.svg" alt="GitHub stats" width="420"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=varunk47&hide_border=true&theme=github-dark-blue&background=0d1117">
