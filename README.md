@@ -8,7 +8,7 @@
 &nbsp;
 <a href="mailto:varunjkadam@gmail.com"><img src="https://img.shields.io/badge/Email-varunjkadam-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/OPEN_TO_WORK-AI%2FML_Engineer-2EA44F?style=for-the-badge" alt="Open to work"/>
+<img src="https://img.shields.io/badge/OPEN_TO_WORK-AI_Engineer-2EA44F?style=for-the-badge" alt="Open to work"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 - 🔭 **Building** [Jobreach](https://github.com/varunk47/Jobreach) — an open-source Claude Code plugin that runs the entire job hunt (tailored documents, verified recruiter emails, Gmail drafts, tracking) — and [Applyocalypse](https://github.com/varunk47/Applyocalypse), an autonomous agent that applies to jobs for me
 - 🌱 **Going deeper on** LLM evaluation and multi-agent reliability — the gap between an agent that demos well and one that survives production
 - 💬 **Ask me about** LangGraph orchestration, RAG that stays grounded, MCP tooling, or getting an agent past the demo stage
-- 📫 **Reach me:** varunkadam7777@gmail.com
+- 📫 **Reach me:** varunjkadam@gmail.com
 
 </td>
 <td width="45%" valign="top">
