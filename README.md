@@ -33,8 +33,8 @@ Finishing my MS in CS at Illinois Tech. Most of my time goes into building agent
 <img src="assets/stats.svg" alt="GitHub stats" width="420"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=varunk47&hide_border=true&theme=github-dark-blue&background=0d1117">
-  <img src="https://streak-stats.demolab.com?user=varunk47&hide_border=true" alt="Contribution streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=varunk47&hide_border=true&short_numbers=false&theme=github-dark-blue&background=0d1117">
+  <img src="https://streak-stats.demolab.com?user=varunk47&hide_border=true&short_numbers=false" alt="Contribution streak"/>
 </picture>
 
 </td>
