@@ -1,0 +1,36 @@
+name: Living profile
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  recent-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update the Recent activity section
+        uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 6
+          COMMIT_NAME: github-actions[bot]
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # ---------------------------------------------------------------------
+  # Blog / content feed - uncomment when there is an RSS feed to pull from
+  # (dev.to, Medium, Hashnode, or a YouTube channel all work).
+  # ---------------------------------------------------------------------
+  # blog-posts:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #     - uses: gautamkrishnar/blog-post-workflow@v1
+  #       with:
+  #         feed_list: "https://dev.to/feed/varunk47"
+  #         max_post_count: 4
