@@ -44,8 +44,8 @@ Finishing my MS in CS at Illinois Tech. Most of my time goes into building agent
 ## What I work with
 
 **AI / ML**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LangGraph%20%2F%20LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangGraph / LangChain"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain / LangGraph"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/RAG%20%C2%B7%20MCP%20%C2%B7%20Agents-2F81F7?style=flat" alt="RAG MCP Agents"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
@@ -81,7 +81,9 @@ Finishing my MS in CS at Illinois Tech. Most of my time goes into building agent
 
 **Daily drivers**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor"/>
 <img src="https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white" alt="Codex"/>
+<img src="https://img.shields.io/badge/Kiro-7C3AED?style=flat" alt="Kiro"/>
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
