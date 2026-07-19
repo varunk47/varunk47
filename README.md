@@ -20,7 +20,7 @@
 
 ### Hey, I'm Varun
 
-Finishing my MS in CS at Illinois Tech. Most of my time goes into building agents and the plumbing that keeps them honest.
+Recently completed my MS in CS at Illinois Tech. Most of my time goes into building agents and the plumbing that keeps them honest.
 
 - Right now, building [Jobreach](https://github.com/varunk47/Jobreach), a Claude Code plugin that runs my whole job hunt, and [Applyocalypse](https://github.com/varunk47/Applyocalypse), the agent that applies to jobs so I don't have to
 - Currently obsessed with one problem, agents that stay reliable when nobody is watching
