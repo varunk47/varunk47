@@ -114,6 +114,8 @@ I was doing the same tedious loop for every application, so I turned the whole t
 ## Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/varunk47/Jobreach/pull/1) in [varunk47/Jobreach](https://github.com/varunk47/Jobreach)
+2. 💪 Opened PR [#1](https://github.com/varunk47/Jobreach/pull/1) in [varunk47/Jobreach](https://github.com/varunk47/Jobreach)
 <!--END_SECTION:activity-->
 
 <details>
