@@ -114,8 +114,8 @@ I was doing the same tedious loop for every application, so I turned the whole t
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/varunk47/Applyocalypse/pull/1) in [varunk47/Applyocalypse](https://github.com/varunk47/Applyocalypse)
-2. 🎉 Merged PR [#1](https://github.com/varunk47/Jobreach/pull/1) in [varunk47/Jobreach](https://github.com/varunk47/Jobreach)
+1. 🎉 Merged PR [#7](https://github.com/varunk47/Applyocalypse/pull/7) in [varunk47/Applyocalypse](https://github.com/varunk47/Applyocalypse)
+2. 💪 Opened PR [#7](https://github.com/varunk47/Applyocalypse/pull/7) in [varunk47/Applyocalypse](https://github.com/varunk47/Applyocalypse)
 <!--END_SECTION:activity-->
 
 <details>
